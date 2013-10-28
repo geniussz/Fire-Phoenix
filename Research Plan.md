@@ -66,10 +66,10 @@ Cellular Automata and Monte Carlo Simulation
 
 http://www.globalfiredata.org/
 
-http://www.odf.state.or.us/divisions/protection/fire_protection/fires/FIRESreports.asp/
+http://www.odf.state.or.us/divisions/protection/fire_protection/fires/FIRESreports.asp
 
 http://forest.jrc.ec.europa.eu/activities/forest-fires/european-fire-database/
 
 http://ulproject.iitgn.ac.in/
 
-http://www.fire.uni-freiburg.de/inventory/database/statistic.html/
+http://www.fire.uni-freiburg.de/inventory/database/statistic.html
