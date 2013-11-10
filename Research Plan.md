@@ -31,7 +31,9 @@ How does the self-organized criticality depend on the neighbourhood selection on
 
 ## Expected Results
 
+The forest fire system evolves into a steady critical state irrespective of its initial conditions. 
 The size distribution of forest fire satisfied a good power law.
+If considering different weather conditions, the forest fire model still shows its self-organized criticality.
 
 
 ## References 
