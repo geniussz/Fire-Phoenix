@@ -13,7 +13,7 @@ In this project, we will investigate the spreading of forest fire. In 1992, a fa
 
 ## The Model
 
-We will use our advanced forest fire model to study how the fire spread (measure the burned area) with time, finite size of forest, ignition probability, etc.. Compared to Drossel and Schwabl's model, we will consider more factors including the immunity from fire, the finite-size forest, density of forest, etc. to make simulation results fit better with actual forest fire data. Our model of course does not capture all the relevant aspects of the problem. To make it better, wind and ground elevation also need to be considered.
+We will use our advanced forest fire model to study how the fire spread (measure the burned area) with time, ignition probability, different weather condition, etc.. Compared to standard forest fire model, we will consider more factors including the density of forest and different weather conditions to make simulation results fit better with real case. With this model, we will study the self-organized criticality by calculating the size distribution of fire clusters.  
 
 
 ## Fundamental Questions
@@ -22,9 +22,11 @@ How is the relationship between the burned area and time?
 
 How is the relationship between the burned area and the ignition probability?
 
-How is the relationship between the burned area and the density of forest?
+What are the characteristics (quantitative) of a self-organized critical state? 
 
-How is the relationship between the burned area and the size of forest and time?
+How do different weather conditions interfere the self-organized critical state?
+
+How does the self-organized criticality depend on the neighbourhood selection on the grid? 
 
 
 ## Expected Results
